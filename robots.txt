@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nohsaingoh.beerp.org/sitemap.xml
